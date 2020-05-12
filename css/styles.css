@@ -204,7 +204,7 @@ body {
   }
 
   .feature-img {
-    margin-right: 12px;
+    margin-right: 8px;
   }
 
   .feature-text {
@@ -216,6 +216,6 @@ body {
   }
 
   .text-right {
-  padding-left: 1rem;
+  padding-left: 0;
   }
 }
