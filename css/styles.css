@@ -172,6 +172,10 @@ body {
   .feature-right {
     margin-left: 0;
   }
+
+  .img-two {
+    width: 25%;
+  }
 }
 
 /* Tablet */
@@ -203,5 +207,9 @@ body {
 
   .feature-right {
     margin-left: 0;
+  }
+
+  .img-two {
+    width: 25%;
   }
 }
