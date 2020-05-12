@@ -73,12 +73,14 @@ body {
   width: 25%;
   margin-right: 30px;
   display: inline-block;
+  vertical-align: middle;
 }
 
 .feature-text {
   display: inline-block;
   padding-left: 3rem;
   width: 60%;
+  vertical-align: middle;
 }
 
 .feature-right {
@@ -144,19 +146,23 @@ body {
 @media (min-width: 319px) and (max-width: 767.98px) {
   .background {
     background-size: cover;
-    padding-bottom: 3%;
+    padding-bottom: 0;
   }
 
   .intro {
-    padding: 3% 20%;
+    padding: 3% 18%;
   }
 
   .big-title {
-    padding-top: 5rem;
+    padding-top: 3rem;
   }
 
   .feature-row {
     width: 100%;
+  }
+
+  .feature-text {
+    width: 70%;
   }
 
   .feature-right {
