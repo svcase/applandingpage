@@ -150,11 +150,11 @@ body {
   }
 
   .intro {
-    padding: 5% 20%;
+    padding: 8% 20%;
   }
 
   .big-title {
-    padding-top: 5rem;
+    padding-top: 7rem;
   }
 
   .download-button {
@@ -195,7 +195,7 @@ body {
   }
 
   .download-button {
-    margin: 2% 3% 7% 0;
+    margin: 2% 3% 9% 0;
   }
 
   .feature-row {
@@ -204,7 +204,7 @@ body {
   }
 
   .feature-img {
-    margin-right: 15px;
+    margin-right: 12px;
   }
 
   .feature-text {
@@ -213,5 +213,9 @@ body {
 
   .feature-right {
     margin-left: 0;
+  }
+
+  .text-right {
+  padding-left: 1rem;
   }
 }
