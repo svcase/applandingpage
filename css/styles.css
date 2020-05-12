@@ -172,5 +172,28 @@ body {
 
 /* Tablet */
 @media (min-width: 768px) and (max-width: 1081px) {
+  .background {
+    background-size: cover;
+    padding-bottom: 0;
+  }
 
+  .intro {
+    padding: 3% 18%;
+  }
+
+  .big-title {
+    padding-top: 2rem;
+  }
+
+  .feature-row {
+    width: 100%;
+  }
+
+  .feature-text {
+    width: 70%;
+  }
+
+  .feature-right {
+    margin-left: 0;
+  }
 }
