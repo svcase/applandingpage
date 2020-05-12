@@ -150,7 +150,7 @@ body {
   }
 
   .intro {
-    padding: 3% 20%;
+    padding: 5% 20%;
   }
 
   .big-title {
@@ -158,11 +158,12 @@ body {
   }
 
   .download-button {
-    margin: 2% 3% 9% 0;
+    margin: 2% 3% 10% 0;
   }
 
   .feature-row {
     width: 100%;
+    margin: 2rem 0;
   }
 
   .feature-img {
@@ -175,10 +176,6 @@ body {
 
   .feature-right {
     margin-left: 0;
-  }
-
-  .img-two {
-    width: 25%;
   }
 }
 
@@ -203,10 +200,11 @@ body {
 
   .feature-row {
     width: 100%;
+    margin: 2rem 0;
   }
 
   .feature-img {
-    margin-right: 18px;
+    margin-right: 15px;
   }
 
   .feature-text {
@@ -215,9 +213,5 @@ body {
 
   .feature-right {
     margin-left: 0;
-  }
-
-  .img-two {
-    width: 25%;
   }
 }
