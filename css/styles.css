@@ -150,11 +150,15 @@ body {
   }
 
   .intro {
-    padding: 3% 18%;
+    padding: 3% 20%;
   }
 
   .big-title {
     padding-top: 3rem;
+  }
+
+  .download-button {
+    margin: 2% 3% 7% 0;
   }
 
   .feature-row {
@@ -162,7 +166,7 @@ body {
   }
 
   .feature-text {
-    width: 70%;
+    width: 65%;
   }
 
   .feature-right {
@@ -178,11 +182,15 @@ body {
   }
 
   .intro {
-    padding: 3% 18%;
+    padding: 3% 20%;
   }
 
   .big-title {
     padding-top: 2rem;
+  }
+
+  .download-button {
+    margin: 2% 3% 7% 0;
   }
 
   .feature-row {
@@ -190,7 +198,7 @@ body {
   }
 
   .feature-text {
-    width: 70%;
+    width: 65%;
   }
 
   .feature-right {
