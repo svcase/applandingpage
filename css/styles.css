@@ -154,19 +154,23 @@ body {
   }
 
   .big-title {
-    padding-top: 3rem;
+    padding-top: 5rem;
   }
 
   .download-button {
-    margin: 2% 3% 7% 0;
+    margin: 2% 3% 9% 0;
   }
 
   .feature-row {
     width: 100%;
   }
 
+  .feature-img {
+    margin-right: 18px;
+  }
+
   .feature-text {
-    width: 65%;
+    width: 62%;
   }
 
   .feature-right {
@@ -201,8 +205,12 @@ body {
     width: 100%;
   }
 
+  .feature-img {
+    margin-right: 18px;
+  }
+
   .feature-text {
-    width: 65%;
+    width: 62%;
   }
 
   .feature-right {
